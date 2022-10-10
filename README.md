@@ -1,1 +1,3 @@
-# Project---Visual-Studio-Marching-Cubes
+$ git rm readme.md
+$ git commit
+$ git push
