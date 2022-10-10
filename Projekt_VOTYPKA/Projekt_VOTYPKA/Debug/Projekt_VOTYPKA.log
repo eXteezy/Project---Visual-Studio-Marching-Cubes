@@ -1,0 +1,161 @@
+﻿  Kopie DLL knihoven
+  C:\SFML\bin\openal32.dll
+  C:\SFML\bin\sfml-audio-2.dll
+  C:\SFML\bin\sfml-audio-d-2.dll
+  C:\SFML\bin\sfml-graphics-2.dll
+  C:\SFML\bin\sfml-graphics-d-2.dll
+  C:\SFML\bin\sfml-network-2.dll
+  C:\SFML\bin\sfml-network-d-2.dll
+  C:\SFML\bin\sfml-system-2.dll
+  C:\SFML\bin\sfml-system-d-2.dll
+  C:\SFML\bin\sfml-window-2.dll
+  C:\SFML\bin\sfml-window-d-2.dll
+  11 File(s) copied
+  SFMLproject.cpp
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(124,100): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(125,108): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(126,116): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(127,108): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(128,100): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(129,108): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(130,116): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(131,108): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(155,24): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(158,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(159,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(162,24): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(163,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(165,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(168,28): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(170,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(171,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(174,28): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(175,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(177,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(180,24): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(182,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(183,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(186,24): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(187,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(189,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(192,28): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(194,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(195,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(198,28): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(199,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(201,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(204,26): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(205,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(206,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(210,26): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(211,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(212,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(216,26): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(217,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(218,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(222,26): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(223,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(224,24): warning C4244: argument: int se převádí na _Ty; může dojít ke ztrátě dat.
+          with
+          [
+              _Ty=float
+          ]
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(242,52): warning C4305: inicializování: zkrácení z: double na: GLfloat
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(243,50): warning C4305: inicializování: zkrácení z: double na: GLfloat
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(317,18): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(322,18): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(437,21): warning C4018: <: signed/unsigned – neshoda
+C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\SFMLproject.cpp(445,21): warning C4018: <: signed/unsigned – neshoda
+  Projekt_VOTYPKA.vcxproj -> C:\ŠKOLA\BIOMEDICINA\9.SEMESTR\MPC-VIZ\PROJEKT\Projekt_VOTYPKA\Projekt_VOTYPKA\Debug\Projekt_VOTYPKA.exe

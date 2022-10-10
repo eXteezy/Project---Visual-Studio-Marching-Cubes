@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Projekt_VOTYPKA", "Projekt_VOTYPKA.vcxproj", "{19C9C7E6-E90D-4664-881B-DC3E865344E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Debug|x64.ActiveCfg = Debug|x64
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Debug|x64.Build.0 = Debug|x64
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Debug|x86.Build.0 = Debug|Win32
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Release|x64.ActiveCfg = Release|x64
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Release|x64.Build.0 = Release|x64
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Release|x86.ActiveCfg = Release|Win32
+		{19C9C7E6-E90D-4664-881B-DC3E865344E2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06FEBFB-2F66-49E2-8C72-207861BA69D1}
+	EndGlobalSection
+EndGlobal
